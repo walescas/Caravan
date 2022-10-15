@@ -1,0 +1,28 @@
+.box-shadow {
+  box-shadow: 0px 1px 6px 0 rgba(0,0,0,0.2);
+}
+
+body {
+  padding-top:4.75rem
+}
+
+.iconsvg {
+  height: 3.5rem;
+}
+
+#home-quote{
+  background: url('/img/pexels-nandhu-kumar-450441.jpg') center center;
+  background-size: cover;
+  border-radius: 100px 3px 100px 3px;
+}
+
+.textdecoration {
+  text-decoration: none;
+}
+
+
+.list-style li {
+  padding: 1rem;
+  border-bottom: 1px solid rgba(0, 0, 0,.1);
+}
+
